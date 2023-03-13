@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilgehan-el
-- 👀 I’m interested in programming and desıgn. 
-- 🌱 I’m currently learning Java, Html5 & CSS3, Photoshop & Illustrator, Figma
+- 👀 I’m interested in programming and educational technologies. 
+- 🌱 I’m currently learning Java, Html5 & CSS3, C#
 - 📫 How to reach me https://www.linkedin.com/in/bilgehan-el%C3%A7i-79681a226/
 
 <!---
